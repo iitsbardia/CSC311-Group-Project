@@ -1,0 +1,15 @@
+{
+ "params": {
+  "n_estimators": 100,
+  "max_depth": null,
+  "min_samples_leaf": 1,
+  "max_features": "sqrt",
+  "criterion": "gini"
+ },
+ "cv_f1": 0.9098608879414375,
+ "cv_f1_std": 0.020694860165996275,
+ "cv_acc": 0.9097967479674797,
+ "cv_f1_no_text": 0.8023320411090851,
+ "n_iter": 60,
+ "seed": 42
+}

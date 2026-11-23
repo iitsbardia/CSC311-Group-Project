@@ -1,0 +1,29 @@
+{
+ "accuracy": 0.8992248062015504,
+ "macro_f1": 0.8999823746396244,
+ "confusion_matrix": [
+  [
+   38,
+   4,
+   1
+  ],
+  [
+   4,
+   39,
+   0
+  ],
+  [
+   3,
+   1,
+   39
+  ]
+ ],
+ "n": 129,
+ "params": {
+  "n_estimators": 100,
+  "max_depth": null,
+  "min_samples_leaf": 1,
+  "max_features": "sqrt",
+  "criterion": "gini"
+ }
+}
